@@ -14,3 +14,6 @@ Length	216 pages
 Many thanks to Professor Csaba.
 
 The other two models use numerical methods and is much simpler to understand.
+
+
+DERIVEST SUIT is a set of numerical jacobian calculation tool. It has its own readme file and it works just fine. Slow however, but numerical.
